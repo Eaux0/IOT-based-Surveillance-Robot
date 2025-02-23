@@ -56,5 +56,5 @@ The **IoT-Based Surveillance Robot** is a web-controlled robot designed for real
 - **Advanced AI Processing**: Improve YOLO model accuracy and introduce face recognition.
 
 ## Contributors
-- **Jainil Patel**
+- **Jainil Patel** : https://github.com/Retr0-2211
 
